@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/FunctionalPlus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/eigen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/frugally-deep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/json" vcs="Git" />
+  </component>
+</project>
